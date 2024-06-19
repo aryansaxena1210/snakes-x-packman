@@ -1,0 +1,4 @@
+(1) how do i dbug the 12th specchecker test? firstly th crateTestFile function dne, then spechecker.txt dne
+also the height and width ==20l20 when the assert says it should be 8,4 or usmn, why?
+
+(2)line 49 of gameFileUtil.java, how to update scorelistener to be 0 when resetting grid
